@@ -12,4 +12,4 @@ let getJohnProfile = () => {
   });
 };
 
-// Start coding here
+getJohnProfile().catch((code)=>console.log(code));
